@@ -1,5 +1,5 @@
 # Global-Sharks
---Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to defend themselves.--
+*Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to defend themselves.*
 
 ### :nut_and_bolt: **Deployment**
 #### :key: Prerequisites
@@ -11,9 +11,7 @@ The installation process is the next:
   1. Clone this repository
   2. Execute in the terminal
    
-   `conda env create -n m1 -f environment.yaml`
-
-
+   `conda env create -n sharks -f environment.yaml`
 
 
 #### :file_folder: **Folder structure**
@@ -24,8 +22,40 @@ The installation process is the next:
     ├── README.md
     ├── data
     │   ├── attacks.csv
-    ├── final_data
-    │   ├── test_pbuf_esri.py
+    ├── 
+    │   
     └── nb
         ├── DataCleaning-sharks.ipynb
 ```
+
+
+
+### :computer: **Technology stack**
+In this case, the technologies used are based on Python.
+
+- :bar_chart: The libraries included are the ones needed for DataCleaning : Pandas, Numpy, Matplotlib.
+
+- The system is standalone.
+
+
+### :boom: **Analysis developed**
+The analysis made include the several steps for data cleaning
+1. Erase missing values (~ 18000 rows)
+2. Incorrect data types
+3. Duplicate rows
+4. Handling missing values
+5. Standardization
+6. Normalization
+7. Verification & enrichment of the data
+   
+
+---
+
+
+![Image](https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/486fabcb-1fca-45a4-bf3e-373dfbefbdc7/Rendition/low-res/Content/Public)
+
+
+
+### :shit: **ToDo**
+1. Improve insights
+2. Improve data cleaning 

@@ -37,7 +37,7 @@ In this case, the technologies used are based on Python.
 
 - The system is standalone.
 
-
+------
 ### :boom: **Analysis developed**
 The analysis made include the several steps for data cleaning
 1. Erase missing values (~ 18000 rows)
@@ -49,11 +49,26 @@ The analysis made include the several steps for data cleaning
 7. Verification & enrichment of the data
    
 
+----
+### :pushpin: **Some insights**
+
+![Image](final_data/insights2.png)
+
+![Image](final_data/insights3.png)
+
+![Image](final_data/insights4.png)
+
+
+
 ---
 
-
+----
 ![Image](https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/486fabcb-1fca-45a4-bf3e-373dfbefbdc7/Rendition/low-res/Content/Public)
 
+
+
+
+####
 
 
 ### :shit: **ToDo**

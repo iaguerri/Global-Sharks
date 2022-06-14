@@ -74,3 +74,4 @@ The analysis made include the several steps for data cleaning
 ### :shit: **ToDo**
 1. Improve insights
 2. Improve data cleaning 
+   1. Data dict for replace & str.contains
